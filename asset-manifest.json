@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/mini-blog/static/js/main.57a0e2cc.js",
+    "index.html": "/mini-blog/index.html",
+    "main.57a0e2cc.js.map": "/mini-blog/static/js/main.57a0e2cc.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.57a0e2cc.js"
+  ]
+}
